@@ -13,3 +13,8 @@ Ahora un bloque de código en python
 def suma_valores(val1, val2):
   return val1 + val2
 ```
+
+Ahora una lista de tareas
+- [X] Insertar varios títulos
+- [X] Insertar una imagen
+- [ ] Crear una lista
