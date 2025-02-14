@@ -7,3 +7,9 @@
 
 Ahora vamos a insertar una imagen
 ![Goku mirada de las mil muertes](https://sm.mashable.com/t/mashable_me/photo/default/hd-wallpaper-goku-goku-dragon-ball-z_nuzk.720.jpg)
+
+Ahora un bloque de código en python
+``` python
+def suma_valores(val1, val2):
+  return val1 + val2
+```
